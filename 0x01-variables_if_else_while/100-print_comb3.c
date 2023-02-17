@@ -9,7 +9,7 @@
 int main(void)
 {
 
-	int i = 48, j = 48;
+	int i = 48, j = 49;
 
 	while (i < 58)
 	{
@@ -18,15 +18,15 @@ int main(void)
 			putchar(i);
 			putchar(j);
 
-			if (i != 57 || j != 57)
+			if (i != 56 || j != 57)
 			{
 				putchar(',');
 				putchar(' ');
 			}
 			j++;
 		}
-		j = 48;
 		i++;
+		j = i + 1;
 	}
 	putchar('\n');
 	return (0);
