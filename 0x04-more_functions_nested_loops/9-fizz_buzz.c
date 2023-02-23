@@ -2,7 +2,6 @@
 
 /**
  * main - FizzBuzz
- * 
  *
  * Return: (0).
  */
