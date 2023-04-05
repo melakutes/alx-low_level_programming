@@ -5,7 +5,7 @@
  * @head: head of a list.
  * @index: index of the node.
  *
- * Return: nth node. 
+ * Return: nth node.
  * If node does not exist, returns NULL.
  */
 
