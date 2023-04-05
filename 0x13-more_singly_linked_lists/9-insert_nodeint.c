@@ -7,7 +7,7 @@
  * @idx: index of the list where the new node is added.
  * @n: integer element.
  *
- * Return: the address of the new node, 
+ * Return: the address of the new node,
  * or NULL if it failed.
  */
 
